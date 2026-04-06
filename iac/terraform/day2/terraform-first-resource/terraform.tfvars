@@ -1,2 +1,2 @@
-token = "add your github token"
+token = "place your token hare"
 
